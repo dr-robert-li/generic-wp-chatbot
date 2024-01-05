@@ -1,0 +1,4 @@
+input[name^="wp-chatbot-options"][type=radio] + span:after {
+  content:"\a";
+  white-space: pre;
+}
